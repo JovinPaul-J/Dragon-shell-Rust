@@ -1,0 +1,4 @@
+echo "Running Dragon-shell script"
+lf
+d-version
+d-help
